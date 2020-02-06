@@ -9,6 +9,7 @@
 
 miles = float(input("How many miles did you drive on your last trip?: "))
 # This line assigns miles as a floating point variable
+#Ideally define gallons as a float too.  
 gallons = int(input("How many gallons of gas did you use?: "))
 # Thsi line assigns gallons as an integer variable
 mpg = (miles / gallons)
